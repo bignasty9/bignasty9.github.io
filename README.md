@@ -16,4 +16,4 @@ The website is divided in seven sections:
 - Mobile localisation
 
 #### License 
-[MIT](bignasty9.github.io/LICENSE.md)
+[MIT](https://bignasty9.github.io/LICENSE.md)
